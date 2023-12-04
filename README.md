@@ -1,8 +1,8 @@
 This proyect is based on @Aleixsr GitHub's Repo
 
-## Install macOS from Windows - OPENCORE
+## Install macOS from Windows following the next steps
 
-## Device Info
+### Device Info
 
 | Components   |             INFO               |
 |--------------|--------------------------------|
@@ -13,7 +13,6 @@ This proyect is based on @Aleixsr GitHub's Repo
 |    NVMe 1    |         Crucial 1TB            |
 |    Audio     |       Realtek ALC298           |
 |   Wireless   |         Intel AX201            |
-
 
 ### What Doesn't Work
 
@@ -29,4 +28,4 @@ This proyect is based on @Aleixsr GitHub's Repo
 - Navigate through the config.plist with ProperTree and...
 - Go: Root -> PlatformInfo and paste 
 - Copy the Serial -> SystemSerialNumber, Board Serial -> MLB, SmUUID -> SystemUUID (like the image bellow)
-![Fill the Gaps](./images/Fill%20the%20gaps%20with%20gensmbios%20info.png)
+![Fill the Gaps](./example_images/Fill%20the%20gaps%20with%20gensmbios%20info.png)
