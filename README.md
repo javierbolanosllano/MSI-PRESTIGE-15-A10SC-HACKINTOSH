@@ -1,6 +1,6 @@
 # Based on Aleixsr GitHub's Repo
 
-### Opencore 0.9.3
+## Install macOS from Windows
 
 ### What Doesn't Work
 
@@ -8,4 +8,14 @@
 - Fingerprint Reader
 - Card Reader Realtek (SD Slot)
 
-![Texto Alternativo](./images/Fill%20the%20gaps%20with%20gensmbios%20info.png)
+### Instructions for Use
+
+- Download my EFI folder
+- Download [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
+- Execute GenSMBIOS and select Install MacSerial and press ok, then select Generate SMBIOS and introduce: 'MacBookPro15,4'
+- Navigate through the config.plist with ProperTree and...
+- Go: Root -> PlatformInfo and paste 
+- Copy the Serial -> SystemSerialNumber, Board Serial -> MLB, SmUUID -> SystemUUID
+
+and paste your generated codes in the empty gaps 
+![Fill the Gaps](./images/Fill%20the%20gaps%20with%20gensmbios%20info.png)
