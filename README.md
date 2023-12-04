@@ -1,6 +1,17 @@
 This proyect is based on @Aleixsr GitHub's Repo
 
-## Install macOS from Windows
+## Install macOS from Windows - OPENCORE
+
+## Device Info
+
+CPU	-> 
+
+| Components   |             INFO               |
+|--------------|--------------------------------|
+|     CPU      |   Intel Comet Lake i7-10710u   |
+| Celda 2,1    | Celda 2,2                      |
+| Celda 3,1    | Celda 3,2    |
+
 
 ### What Doesn't Work
 
