@@ -1,4 +1,4 @@
-# Based on Aleixsr GitHub's Repo
+This proyect is based on @Aleixsr GitHub's Repo
 
 ## Install macOS from Windows
 
@@ -15,7 +15,5 @@
 - Execute GenSMBIOS and select Install MacSerial and press ok, then select Generate SMBIOS and introduce: 'MacBookPro15,4'
 - Navigate through the config.plist with ProperTree and...
 - Go: Root -> PlatformInfo and paste 
-- Copy the Serial -> SystemSerialNumber, Board Serial -> MLB, SmUUID -> SystemUUID
-
-and paste your generated codes in the empty gaps 
+- Copy the Serial -> SystemSerialNumber, Board Serial -> MLB, SmUUID -> SystemUUID (like the image bellow)
 ![Fill the Gaps](./images/Fill%20the%20gaps%20with%20gensmbios%20info.png)
