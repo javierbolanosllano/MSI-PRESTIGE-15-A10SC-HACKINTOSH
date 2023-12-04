@@ -62,4 +62,5 @@ Access the BIOS by rebooting your PC and while the MSI logo appears, you must PR
 ### Post Installation
 
 - Download [Mount EFI](https://github.com/corpnewt/MountEFI), and run the **.command**, select the disk where you have install macOS.
-- It wiil appear an EFI folder in your Finder's sidebar, copy the EFI folder of your USB in your Finder's sideba
+- It wiil appear an EFI folder in your Finder's sidebar, copy the EFI folder of your USB in your Finder's sidebar EFI.
+- Now, you can disconnect your USB and reboot.
