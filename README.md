@@ -4,13 +4,15 @@ This proyect is based on @Aleixsr GitHub's Repo
 
 ## Device Info
 
-CPU	-> 
-
 | Components   |             INFO               |
 |--------------|--------------------------------|
 |     CPU      |   Intel Comet Lake i7-10710u   |
-| Celda 2,1    | Celda 2,2                      |
-| Celda 3,1    | Celda 3,2    |
+|     RAM      |          (1 x 16GB)            |
+|     IGPU     |   Intel Graphics UHD 630       |
+|     DGPU     |    Nvidia GTX1650 Max-Q        |
+|    NVMe 1    |         Crucial 1TB            |
+|    Audio     |       Realtek ALC298           |
+|   Wireless   |         Intel AX201            |
 
 
 ### What Doesn't Work
