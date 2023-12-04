@@ -25,7 +25,12 @@ This proyect is based on @Aleixsr GitHub's Repo
 - Download my EFI folder
 - Download [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 - Execute GenSMBIOS and select Install MacSerial and press ok, then select Generate SMBIOS and introduce: 'MacBookPro15,4'
-- Navigate through the config.plist with ProperTree and...
-- Go: Root -> PlatformInfo and paste 
-- Copy the Serial -> SystemSerialNumber, Board Serial -> MLB, SmUUID -> SystemUUID (like the image bellow)
+- Paste the codes on the config.plist of the Serial -> SystemSerialNumber, Board Serial -> MLB, SmUUID -> SystemUUID (like the image bellow)
+
 ![Fill the Gaps](./example_images/Fill%20the%20gaps%20with%20gensmbios%20info.png)
+
+- click ctrl + R, ctrl + sift + R, accept and save the config.plist.
+
+### Copy the EFI to your pendrive
+
+- 
