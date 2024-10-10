@@ -1,6 +1,6 @@
 This proyect is based on @Aleixsr GitHub's Repository
 
-## Install macOS from Windows following the next steps
+## Install macOS SEQUOIA (OC 1.0.2) or VENTURA from Windows following the next steps
 
 ### Device Info
 
